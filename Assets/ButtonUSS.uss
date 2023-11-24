@@ -1,0 +1,30 @@
+.Button {
+    width: 8%;
+    height: 10%;
+    left: 10%;
+    top: 32%;
+    background-image: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=8228938214290033325&guid=132dcb5752aec954b8e21a217ea405ea&type=3#console.erroricon');
+    background-color: rgba(56, 56, 56, 0);
+    cursor: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=7433338533053954386&guid=132dcb5752aec954b8e21a217ea405ea&type=3#check@2x');
+    position: relative;
+    border-left-color: rgba(76, 76, 76, 0);
+    border-right-color: rgba(76, 76, 76, 0);
+    border-top-color: rgba(76, 76, 76, 0);
+    border-bottom-color: rgba(76, 76, 76, 0);
+}
+
+.Button:hover {
+    width: 8%;
+    height: 10%;
+    left: 10%;
+    top: 32%;
+    background-image: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=8228938214290033325&guid=132dcb5752aec954b8e21a217ea405ea&type=3#console.erroricon');
+    background-color: rgba(56, 56, 56, 0);
+    cursor: url('project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=7433338533053954386&guid=132dcb5752aec954b8e21a217ea405ea&type=3#check@2x');
+    position: relative;
+    border-left-color: rgba(76, 76, 76, 0);
+    border-right-color: rgba(76, 76, 76, 0);
+    border-top-color: rgba(76, 76, 76, 0);
+    border-bottom-color: rgba(76, 76, 76, 0);
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.49);
+}

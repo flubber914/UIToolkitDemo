@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/ButtonUSS.uss?fileID=7433441132597879392&amp;guid=ecd21cdb2dc3f6f49a913913afb19c4e&amp;type=3#ButtonUSS" />
+    <ui:VisualElement style="width: 100%; height: 100%; background-image: url(&apos;project://database/Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonDisabled@2x.png?fileID=2800000&amp;guid=7c05578092876a0458b8b480269aef86&amp;type=3#TrackAvatarButtonDisabled@2x&apos;);">
+        <ui:Button display-tooltip-when-elided="true" name="Button" class="Button" style="cursor: url(&apos;project://database/Assets/UI%20Toolkit/64faef04f0101dc9ac9e3fbc_94.png?fileID=2800000&amp;guid=1ec5e9f3ece6fd244a6de00c93d531c9&amp;type=3#64faef04f0101dc9ac9e3fbc_94&apos;);" />
+    </ui:VisualElement>
+</ui:UXML>
